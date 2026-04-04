@@ -171,7 +171,7 @@ atlas-cunsulting/
 
 [GitHub](https://github.com/vanshaggarwal07)
 
-> *Built with ❤️ by VANSH AGGARWAL*
+> *Built with ❤️ by Vaibhav Singh, Vansh Bindal*
 
 ---
 
