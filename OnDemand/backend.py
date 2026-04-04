@@ -16,7 +16,7 @@ app.add_middleware(CORSMiddleware,
     allow_headers=["*"],
 )
 
-ONDEMAND_API_KEY = "S6ab5e0N7RqeVEf80x1QtI1lHYfj2vJO"
+ONDEMAND_API_KEY = ""
 agent1_id = "69680f0827b1bb913e89392b"
 agent2_id = "6968108f27b1bb913e893974"
 agent3_id = "6968109b27b1bb913e893978"
