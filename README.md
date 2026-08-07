@@ -164,15 +164,7 @@ atlas-cunsulting/
 ---
 
 ## 👥 Team
-
-**Vansh Aggarwal** - Full-Stack Developer & Project Lead
-- Architecture design and implementation
-- AI services integration and multi-agent pipeline
-- Frontend and backend development
-
-[GitHub](https://github.com/vanshaggarwal07)
-
-> *Built with ❤️ by Vaibhav Singh, Vansh Bindal*
+**Vaibhav Singh**
 
 ---
 
@@ -181,9 +173,3 @@ atlas-cunsulting/
 This project is private and proprietary. All rights reserved.
 
 ---
-
-<div align="center">
-
-**Made with ❤️ by VANSH AGGARWAL**
-
-</div>
